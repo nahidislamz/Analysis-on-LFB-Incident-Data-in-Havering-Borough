@@ -50,4 +50,4 @@ Data quality is an important aspect of any dataset. We performed an initial data
 
 - Missing Values: We found missing values in multiple columns. We addressed the missing values in the "FirstPumpArriving_AttendanceTime”, “PumpCount”, “NumStationsWithPumpsAttending”, “Notional Cost (£)" column by replacing them with the mean, mode, & median values. For the other columns that has missing values more than 50% we dropped them. Below fig 1 shows the number of missing values in our datasets.
 
-[Missing Values](DMA_PROJECTS_IMAGES/missing_values.png)
+![Missing Values](DMA_PROJECTS_IMAGES/missing_values.png)
